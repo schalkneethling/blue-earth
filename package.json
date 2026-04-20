@@ -1,0 +1,33 @@
+{
+  "name": "blue-earth",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vp dev",
+    "build": "tsc && vp build",
+    "preview": "vp preview",
+    "prepare": "vp config",
+    "pipeline:fetch": "node pipeline/fetch-stories.js",
+    "pipeline:extract": "node pipeline/extract-locations.js",
+    "pipeline:geocode": "node pipeline/geocode.js",
+    "pipeline:build": "node pipeline/build-queue.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "three": "^0.184.0"
+  },
+  "devDependencies": {
+    "@types/three": "^0.184.0",
+    "typescript": "~6.0.2",
+    "vite": "npm:@voidzero-dev/vite-plus-core@latest",
+    "vite-plus": "latest"
+  },
+  "packageManager": "pnpm@10.33.0",
+  "pnpm": {
+    "overrides": {
+      "vite": "npm:@voidzero-dev/vite-plus-core@latest",
+      "vitest": "npm:@voidzero-dev/vite-plus-test@latest"
+    }
+  }
+}

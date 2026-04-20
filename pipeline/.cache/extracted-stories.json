@@ -1,0 +1,546 @@
+[
+  {
+    "title": "Countries can rewild borders to deter invasions, says EU environment chief",
+    "summary": "Jessika Roswall cites Poland and Finland, which have made border areas near Russia or its allies ‘more hostile’ to cross",
+    "url": "https://www.theguardian.com/environment/2026/mar/09/countries-can-rewild-borders-to-deter-invasions-says-eu-environment-chief",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-09T11:17:36Z",
+    "tags": [
+      "environment/rewilding",
+      "world/europe-news",
+      "world/eu",
+      "environment/environment",
+      "world/world",
+      "world/poland",
+      "world/finland"
+    ],
+    "secondaryTags": [
+      "environment/rewilding",
+      "world/europe-news",
+      "world/eu",
+      "environment/environment",
+      "world/world",
+      "world/poland",
+      "world/finland"
+    ],
+    "extraction": {
+      "place": "Poland and Finland",
+      "country": "Poland, Finland, and Russia",
+      "confidence": "high",
+      "reason": "The summary explicitly mentions Poland and Finland as countries that have made border areas near Russia 'more hostile' to cross through rewilding efforts"
+    }
+  },
+  {
+    "title": "Colombia convenes climate ‘coalition of the willing’ to break global fossil fuel deadlock",
+    "summary": "Santa Marta conference born out of frustration at Cop summits, where renewable progress has been stalled by major polluters",
+    "url": "https://www.theguardian.com/environment/2026/apr/17/colombia-convenes-climate-coalition-of-the-willing-to-break-global-fossil-fuel-deadlock",
+    "source": "The Guardian",
+    "publishedAt": "2026-04-17T08:00:24Z",
+    "tags": [
+      "environment/fossil-fuels",
+      "environment/climate-crisis",
+      "environment/cop31",
+      "environment/energy",
+      "environment/environment",
+      "environment/renewableenergy",
+      "world/unitednations",
+      "world/colombia",
+      "world/americas",
+      "world/world"
+    ],
+    "secondaryTags": [
+      "environment/fossil-fuels",
+      "environment/climate-crisis",
+      "environment/cop31",
+      "environment/energy",
+      "environment/environment",
+      "environment/renewableenergy",
+      "world/unitednations",
+      "world/colombia",
+      "world/americas",
+      "world/world"
+    ],
+    "extraction": {
+      "place": "Santa Marta",
+      "country": "Colombia",
+      "confidence": "high",
+      "reason": "The title explicitly mentions Colombia as the country, and the summary specifically names 'Santa Marta conference' as the location where this climate coalition is being convened."
+    }
+  },
+  {
+    "title": "The sustainable London markets championing local makers",
+    "summary": "London’s markets are opening this spring with a focus on sustainability and community The post The sustainable London markets championing local makers appeared first on Positive News . ]]>",
+    "url": "https://www.positive.news/environment/the-sustainable-london-markets-championing-local-makers/",
+    "source": "Positive News",
+    "publishedAt": "Thu, 16 Apr 2026 07:00:03 +0000",
+    "tags": [
+      "<![CDATA[Culture]]>",
+      "<![CDATA[Environment]]>",
+      "<![CDATA[Society]]>",
+      "<![CDATA[craftsmanship]]>",
+      "<![CDATA[London]]>",
+      "<![CDATA[market]]>",
+      "<![CDATA[secondhand]]>"
+    ],
+    "secondaryTags": ["<![CDATA[Culture]]>", "<![CDATA[Environment]]>", "<![CDATA[Society]]>"],
+    "extraction": {
+      "place": "London",
+      "country": "United Kingdom",
+      "confidence": "high",
+      "reason": "The title explicitly mentions 'London' and the summary refers to 'London's markets', clearly identifying the primary geographic location"
+    }
+  },
+  {
+    "title": "What does the new £1bn investment in community energy really mean?",
+    "summary": "It’s the largest public investment in community-owned green power in the UK to date. But how can communities get involved? The post What does the new £1bn investment in community energy really mean? appeared first on Positive News . ]]>",
+    "url": "https://www.positive.news/environment/energy/what-does-the-new-1bn-investment-in-community-energy-really-mean/",
+    "source": "Positive News",
+    "publishedAt": "Tue, 14 Apr 2026 13:12:23 +0000",
+    "tags": [
+      "<![CDATA[Energy]]>",
+      "<![CDATA[Environment]]>",
+      "<![CDATA[Social Enterprise]]>",
+      "<![CDATA[community energy]]>",
+      "<![CDATA[green energy]]>",
+      "<![CDATA[green power]]>",
+      "<![CDATA[local power plan]]>",
+      "<![CDATA[Partners]]>",
+      "<![CDATA[Renewable energy]]>",
+      "<![CDATA[Thrive Renewables]]>"
+    ],
+    "secondaryTags": [
+      "<![CDATA[Energy]]>",
+      "<![CDATA[Environment]]>",
+      "<![CDATA[Social Enterprise]]>"
+    ],
+    "extraction": {
+      "place": "United Kingdom",
+      "country": "United Kingdom",
+      "confidence": "high",
+      "reason": "The title and summary explicitly reference '£1bn investment in community energy' and 'largest public investment in community-owned green power in the UK', clearly indicating the UK as the primary geographic location"
+    }
+  },
+  {
+    "title": "DeBriefed 2 April 2026: Countries ‘revive’ energy-crisis measures &#124; Record UK renewables &#124; Plug-in solar savings",
+    "summary": "Welcome to Carbon Brief’s DeBriefed.&#160;An essential guide to the week&#8217;s key developments relating to climate... The post DeBriefed 2 April 2026: Countries ‘revive’ energy-crisis measures | Record UK renewables | Plug-in solar savings appeared first on Carbon Brief . ]]>",
+    "url": "https://www.carbonbrief.org/debriefed-2-april-2026/",
+    "source": "Carbon Brief",
+    "publishedAt": "Thu, 02 Apr 2026 15:32:06 +0000",
+    "tags": [
+      "<![CDATA[DeBriefed]]>",
+      "<![CDATA[energy crisis]]>",
+      "<![CDATA[Iran]]>",
+      "<![CDATA[renewable energy]]>",
+      "<![CDATA[renewables]]>",
+      "<![CDATA[Solar]]>",
+      "<![CDATA[solar energy]]>"
+    ],
+    "secondaryTags": ["<![CDATA[DeBriefed]]>", "<![CDATA[energy crisis]]>", "<![CDATA[Iran]]>"],
+    "extraction": {
+      "place": "United Kingdom",
+      "country": "United Kingdom",
+      "confidence": "high",
+      "reason": "Title explicitly mentions 'Record UK renewables' and 'Plug-in solar savings' which are UK-specific climate actions"
+    }
+  },
+  {
+    "title": "Zambia Under Pressure to Clean Up Shuttered Lead Mine Poisoning Town",
+    "summary": "Three decades after one of the largest lead mines in the world closed down, people in Kabwe, Zambia, are still dealing with the aftermath. Facing pervasive lead contamination that continues to endanger their children, families in Kabwe, with a coalition of human rights groups, ar",
+    "url": "https://e360.yale.edu/digest/zambia-kabwe-mine",
+    "source": "Yale Environment 360",
+    "publishedAt": "2026-04-17T09:10:00-04:00",
+    "tags": [],
+    "secondaryTags": [],
+    "extraction": {
+      "place": "Kabwe",
+      "country": "Zambia",
+      "confidence": "high",
+      "reason": "The title explicitly mentions 'Zambia' as the country, and the summary specifically names 'Kabwe, Zambia' as the location where lead contamination from a closed mine continues to affect residents."
+    }
+  },
+  {
+    "title": "In a First for the U.S., Renewables Generate More Power Than Natural Gas",
+    "summary": "In a first last month, renewables supplied more power to the U.S. than natural gas, a milestone in the shift to clean energy. However, rising power demand is complicating the transition away from fossil fuels by extending the lives of many aging coal power plants. Read more on E3",
+    "url": "https://e360.yale.edu/digest/us-renewables-natural-gas-coal",
+    "source": "Yale Environment 360",
+    "publishedAt": "2026-04-14T08:37:00-04:00",
+    "tags": [],
+    "secondaryTags": [],
+    "extraction": {
+      "place": "United States",
+      "country": "United States",
+      "confidence": "high",
+      "reason": "Title explicitly states 'In a First for the U.S.' and summary discusses the U.S. power grid transition"
+    }
+  },
+  {
+    "title": "Google to Use Natural Gas to Power Massive Data Center in Texas",
+    "summary": "A planned gas-fired power plant at a Google data center in Texas would generate up to 4.5 million tons of carbon dioxide annually, more than the city of San Francisco. Read more on E360 → ]]>",
+    "url": "https://e360.yale.edu/digest/google-natural-gas-data-center",
+    "source": "Yale Environment 360",
+    "publishedAt": "2026-04-07T09:27:00-04:00",
+    "tags": [],
+    "secondaryTags": [],
+    "extraction": {
+      "place": "Texas",
+      "country": "United States",
+      "confidence": "high",
+      "reason": "The title explicitly states 'in Texas' and the summary mentions 'a Google data center in Texas'"
+    }
+  },
+  {
+    "title": "Trying Times: Keeping the Faith as Environmental Gains Are Lost",
+    "summary": "For people who came of age in the 1970s, it is especially painful to witness the Trump administration’s relentless rollback of hard-won environmental progress. But as the assaults on clean air and water, endangered species, and more mount, a noted ecologist finds reasons for hope",
+    "url": "https://e360.yale.edu/features/trying-times-essay",
+    "source": "Yale Environment 360",
+    "publishedAt": "2026-04-02T04:36:00-04:00",
+    "tags": [],
+    "secondaryTags": [],
+    "extraction": {
+      "place": "United States",
+      "country": "United States",
+      "confidence": "high",
+      "reason": "The article explicitly mentions the Trump administration and its rollback of environmental progress, which is specific to the United States government and policies."
+    }
+  },
+  {
+    "title": "Indonesian Mega-Farm Drives Surge in Deforestation",
+    "summary": "Indonesia saw the loss of forest hit its highest level in eight years last year, a jump driven in part by a sprawling effort to turn rainforest into rice and sugarcane plantations. Read more on E360 → ]]>",
+    "url": "https://e360.yale.edu/digest/indonesia-mega-farm-deforestation-2025",
+    "source": "Yale Environment 360",
+    "publishedAt": "2026-03-31T09:58:00-04:00",
+    "tags": [],
+    "secondaryTags": [],
+    "extraction": {
+      "place": "Indonesia",
+      "country": "Indonesia",
+      "confidence": "high",
+      "reason": "The title and summary explicitly mention 'Indonesian Mega-Farm' and 'Indonesia saw the loss of forest' as the primary subject of the climate action described."
+    }
+  },
+  {
+    "title": "As It Boosts Renewables, China Still Can&#039;t Break Its Coal Addiction",
+    "summary": "Despite being a renewables superpower, China continues to permit and build new coal-fired power plants at a rapid pace. Analysts say the nation’s new five-year plan will ensure further coal plant expansion and jeopardize China’s ability to deliver on its climate promises. Read mo",
+    "url": "https://e360.yale.edu/features/china-coal-five-year-plan",
+    "source": "Yale Environment 360",
+    "publishedAt": "2026-03-26T07:16:00-04:00",
+    "tags": [],
+    "secondaryTags": [],
+    "extraction": {
+      "place": "China",
+      "country": "China",
+      "confidence": "high",
+      "reason": "The title and summary explicitly mention 'China' multiple times as the subject of the climate action and coal expansion discussion"
+    }
+  },
+  {
+    "title": "As Zambia Pushes New Mining, a Legacy of Pollution Looms",
+    "summary": "Zambia is expanding development of its rich deposits of critical minerals, which are needed for the global shift to renewables. But poisoning from past mining and a huge toxic spill at a mine site are raising fears that new wealth will come at a high cost for people and the envir",
+    "url": "https://e360.yale.edu/features/zambia-lead-zinc-copper-mines",
+    "source": "Yale Environment 360",
+    "publishedAt": "2026-03-19T05:47:00-04:00",
+    "tags": [],
+    "secondaryTags": [],
+    "extraction": {
+      "place": "Zambia",
+      "country": "Zambia",
+      "confidence": "high",
+      "reason": "The title explicitly mentions 'Zambia' as the primary subject of the climate action and mining expansion being discussed."
+    }
+  },
+  {
+    "title": "Medieval Farms Were a Boon for Biodiversity, Research Finds",
+    "summary": "In parts of Europe, the diversity of plants was greatest in the years before the Black Death, at a time when small farms and pastures existed alongside grasslands and forests, new research reveals. The findings show how, under the right conditions, farms can be a boon to nature. ",
+    "url": "https://e360.yale.edu/digest/lake-constance-farming-biodiversity",
+    "source": "Yale Environment 360",
+    "publishedAt": "2026-03-13T09:22:00-04:00",
+    "tags": [],
+    "secondaryTags": [],
+    "extraction": {
+      "place": "Europe",
+      "country": "Multiple European countries",
+      "confidence": "medium",
+      "reason": "The article states 'In parts of Europe' when describing where medieval farms contributed to biodiversity, but does not specify a particular city or country."
+    }
+  },
+  {
+    "title": "War Brings Black Rain to a Parched Iran",
+    "summary": "As U.S. and Israeli forces pummel Iran, oil installations and a desalination plant have come under fire. Experts warn that attacks on key infrastructure threaten the supply of fresh water in a country already coping with a brutal drought. Read more on E360 → ]]>",
+    "url": "https://e360.yale.edu/digest/iran-war-black-rain-water",
+    "source": "Yale Environment 360",
+    "publishedAt": "2026-03-10T10:20:00-04:00",
+    "tags": [],
+    "secondaryTags": [],
+    "extraction": {
+      "place": "Iran",
+      "country": "Iran",
+      "confidence": "high",
+      "reason": "The title explicitly states 'Iran' and the summary discusses attacks on Iranian infrastructure including oil installations and a desalination plant, with references to drought conditions in the country."
+    }
+  },
+  {
+    "title": "China&#039;s Fossil Fuel Emissions Dropped Last Year as Solar Boomed",
+    "summary": "In China, the world's leading carbon emitter, a massive buildout of solar power is beginning to push coal into decline. Last year China saw its fossil fuel emissions drop, even as demand for energy rose. Read more on E360 → ]]>",
+    "url": "https://e360.yale.edu/digest/china-emissions-2025",
+    "source": "Yale Environment 360",
+    "publishedAt": "2026-03-02T05:45:00-05:00",
+    "tags": [],
+    "secondaryTags": [],
+    "extraction": {
+      "place": "China",
+      "country": "China",
+      "confidence": "high",
+      "reason": "The title and summary explicitly mention 'China' as the primary location where fossil fuel emissions dropped and solar power expansion is occurring."
+    }
+  },
+  {
+    "title": "Many companies want clean energy. Georgia Power will soon let them build it.",
+    "summary": "",
+    "url": "https://grist.org/georgia-psc/many-companies-want-clean-energy-georgia-power-will-soon-let-them-build-it/",
+    "source": "Grist",
+    "publishedAt": "Wed, 15 Apr 2026 08:15:00 +0000",
+    "tags": ["<![CDATA[Energy]]>", "<![CDATA[Georgia PSC]]>"],
+    "secondaryTags": ["<![CDATA[Energy]]>", "<![CDATA[Georgia PSC]]>"],
+    "extraction": {
+      "place": "Georgia",
+      "country": "United States",
+      "confidence": "high",
+      "reason": "Georgia Power is explicitly named in the title and is a utility company operating in the state of Georgia"
+    }
+  },
+  {
+    "title": "La red eléctrica de Cuba falla, pero la energía solar se convierte en un salvavidas",
+    "summary": "El diez por ciento de la electricidad de la nación caribeña fue generada por energía renovable en 2025, frente al 3,6% en 2024. The post La red eléctrica de Cuba falla, pero la energía solar se convierte en un salvavidas appeared first on Yale Climate Connections . ]]>",
+    "url": "https://yaleclimateconnections.org/2026/04/la-red-electrica-de-cuba-falla-pero-la-energia-solar-se-convierte-en-un-salvavidas/",
+    "source": "Yale Climate Connections",
+    "publishedAt": "Thu, 16 Apr 2026 20:16:09 +0000",
+    "tags": [
+      "<![CDATA[Cuba]]>",
+      "<![CDATA[El Caribe]]>",
+      "<![CDATA[En español]]>",
+      "<![CDATA[soluciones]]>",
+      "<![CDATA[EE.UU.]]>",
+      "<![CDATA[el bloqueo]]>",
+      "<![CDATA[Perla Marvell]]>"
+    ],
+    "secondaryTags": ["<![CDATA[Cuba]]>", "<![CDATA[El Caribe]]>", "<![CDATA[En español]]>"],
+    "extraction": {
+      "place": "Cuba",
+      "country": "Cuba",
+      "confidence": "high",
+      "reason": "Title explicitly mentions 'Cuba' and summary refers to 'la nación caribeña' (the Caribbean nation) with statistics about Cuba's electricity generation"
+    }
+  },
+  {
+    "title": "As Cuba’s grid fails, solar power becomes a lifeline",
+    "summary": "Ten percent of the Caribbean nation’s electricity was generated by renewable energy in 2025, up from 3.6% in 2024. The post As Cuba’s grid fails, solar power becomes a lifeline appeared first on Yale Climate Connections . ]]>",
+    "url": "https://yaleclimateconnections.org/2026/04/as-cubas-grid-fails-solar-power-becomes-a-lifeline/",
+    "source": "Yale Climate Connections",
+    "publishedAt": "Thu, 16 Apr 2026 18:56:11 +0000",
+    "tags": [
+      "<![CDATA[Cuba]]>",
+      "<![CDATA[Energy]]>",
+      "<![CDATA[Feature Article]]>",
+      "<![CDATA[Policy & Politics]]>",
+      "<![CDATA[Solutions]]>",
+      "<![CDATA[federal]]>",
+      "<![CDATA[government]]>",
+      "<![CDATA[Pearl Marvell]]>",
+      "<![CDATA[U.S.]]>"
+    ],
+    "secondaryTags": ["<![CDATA[Cuba]]>", "<![CDATA[Energy]]>", "<![CDATA[Feature Article]]>"],
+    "extraction": {
+      "place": "Cuba",
+      "country": "Cuba",
+      "confidence": "high",
+      "reason": "The title explicitly mentions 'Cuba's grid' and the summary refers to 'the Caribbean nation,' which is Cuba. The article discusses renewable energy generation specifically within Cuba."
+    }
+  },
+  {
+    "title": "The funding disappeared. The flooding didn’t.",
+    "summary": "After the Trump administration canceled a climate initiative, a Pennsylvania farmer is battling extreme rain on her own. The post The funding disappeared. The flooding didn’t. appeared first on Yale Climate Connections . ]]>",
+    "url": "https://yaleclimateconnections.org/2026/04/the-funding-disappeared-the-flooding-didnt/",
+    "source": "Yale Climate Connections",
+    "publishedAt": "Wed, 15 Apr 2026 11:00:00 +0000",
+    "tags": [
+      "<![CDATA[Audio]]>",
+      "<![CDATA[Food & Agriculture]]>",
+      "<![CDATA[Policy & Politics]]>",
+      "<![CDATA[federal]]>",
+      "<![CDATA[government]]>",
+      "<![CDATA[Pennsylvania]]>",
+      "<![CDATA[United States]]>"
+    ],
+    "secondaryTags": [
+      "<![CDATA[Audio]]>",
+      "<![CDATA[Food & Agriculture]]>",
+      "<![CDATA[Policy & Politics]]>"
+    ],
+    "extraction": {
+      "place": "Pennsylvania",
+      "country": "United States",
+      "confidence": "high",
+      "reason": "The summary explicitly mentions 'a Pennsylvania farmer' dealing with flooding after a climate initiative was canceled"
+    }
+  },
+  {
+    "title": "EU carbon tax risks penalising efficient producers over data gaps",
+    "summary": "As importers face new costs under the Carbon Border Adjustment Mechanism, many are finding the biggest savings do not necessarily come from swapping to cleaner production The post EU carbon tax risks penalising efficient producers over data gaps appeared first on Climate Home New",
+    "url": "https://www.climatechangenews.com/2026/04/16/eu-carbon-tax-risks-penalising-efficient-producers-over-data-gaps/",
+    "source": "Climate Home News",
+    "publishedAt": "Thu, 16 Apr 2026 09:53:47 +0000",
+    "tags": ["<![CDATA[Business]]>", "<![CDATA[Carbon markets]]>", "<![CDATA[Comment]]>"],
+    "secondaryTags": ["<![CDATA[Business]]>", "<![CDATA[Carbon markets]]>", "<![CDATA[Comment]]>"],
+    "extraction": {
+      "place": "European Union",
+      "country": "Multiple EU member states",
+      "confidence": "high",
+      "reason": "The title and summary explicitly reference the 'EU carbon tax' and the 'Carbon Border Adjustment Mechanism,' which are European Union policies"
+    }
+  },
+  {
+    "title": "Q&#038;A: Will subsidy cuts for Chinese clean-tech exports hurt Africa&#8217;s solar boom?",
+    "summary": "Renewable energy developer Karl Boyce talks to Climate Home News about China's VAT rebate cuts and the biggest challenges for Africa's efforts to boost energy access The post Q&A: Will subsidy cuts for Chinese clean-tech exports hurt Africa&#8217;s solar boom? appeared first on C",
+    "url": "https://www.climatechangenews.com/2026/04/07/qa-will-subsidy-cuts-for-chinese-clean-tech-exports-hurt-africas-solar-boom/",
+    "source": "Climate Home News",
+    "publishedAt": "Tue, 07 Apr 2026 08:48:37 +0000",
+    "tags": [
+      "<![CDATA[Energy]]>",
+      "<![CDATA[News]]>",
+      "<![CDATA[Africa]]>",
+      "<![CDATA[china]]>",
+      "<![CDATA[Solar]]>"
+    ],
+    "secondaryTags": ["<![CDATA[Energy]]>", "<![CDATA[News]]>", "<![CDATA[Africa]]>"],
+    "extraction": {
+      "place": "Africa",
+      "country": "Multiple African countries",
+      "confidence": "medium",
+      "reason": "The title and summary explicitly mention 'Africa's solar boom' and 'Africa's efforts to boost energy access' as the primary geographic focus of the climate action being discussed."
+    }
+  },
+  {
+    "title": "Nigerians bet on solar as global oil shock hits wallets and power supplies",
+    "summary": "Fed up with an increase in outages and surging fuel prices, a growing number of homes and businesses are ditching their backup generators for solar systems The post Nigerians bet on solar as global oil shock hits wallets and power supplies appeared first on Climate Home News . ]]",
+    "url": "https://www.climatechangenews.com/2026/04/01/nigerians-bet-on-solar-as-global-oil-shock-hits-wallets-and-power-supplies/",
+    "source": "Climate Home News",
+    "publishedAt": "Wed, 01 Apr 2026 14:38:54 +0000",
+    "tags": [
+      "<![CDATA[Energy]]>",
+      "<![CDATA[News]]>",
+      "<![CDATA[Energy transition]]>",
+      "<![CDATA[Gas]]>",
+      "<![CDATA[solar panels]]>"
+    ],
+    "secondaryTags": ["<![CDATA[Energy]]>", "<![CDATA[News]]>", "<![CDATA[Energy transition]]>"],
+    "extraction": {
+      "place": "Nigeria",
+      "country": "Nigeria",
+      "confidence": "high",
+      "reason": "The title explicitly mentions 'Nigerians' and the article discusses homes and businesses in Nigeria adopting solar systems as an alternative to generators."
+    }
+  },
+  {
+    "title": "How small island states can make renewables the bedrock of resilience",
+    "summary": "As Middle East conflict rattles energy markets, Barbados charts a practical path for small islands to harness abundant renewables and strengthen energy security The post How small island states can make renewables the bedrock of resilience appeared first on Climate Home News . ]]",
+    "url": "https://www.climatechangenews.com/2026/03/26/how-small-island-states-can-make-renewables-the-bedrock-of-resilience/",
+    "source": "Climate Home News",
+    "publishedAt": "Thu, 26 Mar 2026 14:00:30 +0000",
+    "tags": [
+      "<![CDATA[Comment]]>",
+      "<![CDATA[Energy]]>",
+      "<![CDATA[Barbados]]>",
+      "<![CDATA[Clean Energy]]>",
+      "<![CDATA[sids]]>"
+    ],
+    "secondaryTags": ["<![CDATA[Comment]]>", "<![CDATA[Energy]]>", "<![CDATA[Barbados]]>"],
+    "extraction": {
+      "place": "Barbados",
+      "country": "Barbados",
+      "confidence": "high",
+      "reason": "Barbados is explicitly mentioned in the summary as charting a path for small islands to harness renewables and strengthen energy security."
+    }
+  },
+  {
+    "title": "Dutch startup’s rust-powered batteries could help crack Europe’s energy storage gap",
+    "summary": "Ore Energy says its long-duration batteries made of iron and air can help Europe cut its dependence on critical minerals supply chains and boost renewables The post Dutch startup’s rust-powered batteries could help crack Europe’s energy storage gap appeared first on Climate Home ",
+    "url": "https://www.climatechangenews.com/2026/03/26/rust-powered-batteries-could-help-crack-europes-energy-storage-gap/",
+    "source": "Climate Home News",
+    "publishedAt": "Thu, 26 Mar 2026 07:00:00 +0000",
+    "tags": [
+      "<![CDATA[News]]>",
+      "<![CDATA[batteries]]>",
+      "<![CDATA[critical minerals]]>",
+      "<![CDATA[Ore Energy]]>"
+    ],
+    "secondaryTags": ["<![CDATA[News]]>", "<![CDATA[batteries]]>", "<![CDATA[critical minerals]]>"],
+    "extraction": {
+      "place": "Netherlands",
+      "country": "Netherlands",
+      "confidence": "high",
+      "reason": "Title explicitly refers to 'Dutch startup' and the company Ore Energy is based in the Netherlands, with the article discussing Europe's energy storage challenges"
+    }
+  },
+  {
+    "title": "Early warning systems are saving lives in Central Asia",
+    "summary": "Across Asia, the installation of early warning systems, alongside community involvement, is now viewed as a key response to the ever-present threat of climate disasters. The post Early warning systems are saving lives in Central Asia appeared first on Climate Home News . ]]>",
+    "url": "https://www.climatechangenews.com/2026/03/24/early-warning-systems-are-saving-lives-in-central-asia/",
+    "source": "Climate Home News",
+    "publishedAt": "Tue, 24 Mar 2026 20:49:36 +0000",
+    "tags": [
+      "<![CDATA[Sponsored]]>",
+      "<![CDATA[Disaster Risk Reduction]]>",
+      "<![CDATA[early warning systems]]>",
+      "<![CDATA[Pakistan]]>"
+    ],
+    "secondaryTags": [
+      "<![CDATA[Sponsored]]>",
+      "<![CDATA[Disaster Risk Reduction]]>",
+      "<![CDATA[early warning systems]]>"
+    ],
+    "extraction": {
+      "place": "Central Asia",
+      "country": "",
+      "confidence": "high",
+      "reason": "The title explicitly states 'Central Asia' as the primary geographic location where early warning systems are being implemented for climate action"
+    }
+  },
+  {
+    "title": "Will the EU finally make waste pay for its growing carbon footprint?",
+    "summary": "A decision by Brussels to bring refuse incineration into the EU Emissions Trading System would restore a basic principle: the polluter pays The post Will the EU finally make waste pay for its growing carbon footprint? appeared first on Climate Home News . ]]>",
+    "url": "https://www.climatechangenews.com/2026/03/19/will-the-eu-finally-make-waste-pay-for-its-growing-carbon-footprint/",
+    "source": "Climate Home News",
+    "publishedAt": "Thu, 19 Mar 2026 10:26:33 +0000",
+    "tags": ["<![CDATA[Carbon markets]]>", "<![CDATA[Comment]]>"],
+    "secondaryTags": ["<![CDATA[Carbon markets]]>", "<![CDATA[Comment]]>"],
+    "extraction": {
+      "place": "Brussels",
+      "country": "Belgium",
+      "confidence": "medium",
+      "reason": "Brussels is mentioned as the decision-making location, and the article discusses EU-wide policy on emissions trading, indicating the primary geographic focus is the European Union with Brussels as the specific policy center."
+    }
+  },
+  {
+    "title": "&#8216;Completely delusional’: UN climate chief warns against fossil fuel push after Iran crisis",
+    "summary": "As Gulf disruptions send oil and gas prices soaring, Simon Stiell urges leaders to double down on renewables and fight fossil fuel dependency The post &#8216;Completely delusional’: UN climate chief warns against fossil fuel push after Iran crisis appeared first on Climate Home N",
+    "url": "https://www.climatechangenews.com/2026/03/16/un-climate-chief-to-use-iran-crisis-to-hit-out-at-delusional-fossil-fuel-supporters/",
+    "source": "Climate Home News",
+    "publishedAt": "Mon, 16 Mar 2026 06:00:00 +0000",
+    "tags": [
+      "<![CDATA[News]]>",
+      "<![CDATA[Politics]]>",
+      "<![CDATA[Europe]]>",
+      "<![CDATA[fossil fuels]]>",
+      "<![CDATA[iran war]]>",
+      "<![CDATA[renewables]]>",
+      "<![CDATA[Simon Stiell]]>"
+    ],
+    "secondaryTags": ["<![CDATA[News]]>", "<![CDATA[Politics]]>", "<![CDATA[Europe]]>"],
+    "extraction": {
+      "place": "Gulf region",
+      "country": "Iran",
+      "confidence": "medium",
+      "reason": "The title mentions 'Iran crisis' and the summary references 'Gulf disruptions', indicating the primary geographic focus is the Gulf region and Iran, though the UN climate chief's statement has global scope."
+    }
+  }
+]
