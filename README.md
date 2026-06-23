@@ -1,3 +1,5 @@
+> **Note**: This was an experiment and is now frozen in time.
+
 # blue-earth
 
 `blue-earth` is an interactive 3D globe for good-news climate stories, built as a showcase for the WICG HTML-in-Canvas API. The globe is rendered with Three.js, story cards are real HTML elements inside the canvas subtree, and the data pipeline is designed to fetch, extract, geocode, and prepare climate-action stories for the demo.
